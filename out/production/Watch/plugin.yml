@@ -1,0 +1,8 @@
+name: Watch
+main: watch.main.SpigotPlugin
+version: 0.1
+commands:
+  watch:
+    description: A clocks
+  buywatch:
+    description: Buy clocks
